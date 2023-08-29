@@ -36,6 +36,3 @@ This project focuses on implementing various methods for semantic text analysis 
 - Feel free to modify and experiment with the code to suit your specific needs.
 - The project showcases different methods, their implementation, and usage within a single notebook for your convenience.
 
----
-
-Feel free to customize this "Read Me" to better fit the specifics of your project and any additional details you want to include.
