@@ -1,6 +1,7 @@
 
 
 # Semantic Text Analysis Project
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 This project focuses on implementing various methods for semantic text analysis using Python and Google Colab. The goal is to explore different techniques to calculate the similarity between words, sentences, and documents, and to perform efficient querying based on these methods.
 
